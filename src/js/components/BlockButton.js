@@ -1,4 +1,5 @@
 import FollowButton from './FollowButton.js';
+import {translate as t} from '../Translation.js';
 
 class BlockButton extends FollowButton {
   constructor() {
